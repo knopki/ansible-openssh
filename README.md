@@ -1,3 +1,6 @@
+# Deprecation warning
+Unmaintained project. Please, use good alternative: [willshersystems.sshd](https://galaxy.ansible.com/willshersystems/sshd/)
+
 # ansible-openssh
 
 This ansible role installs and configures openssh
